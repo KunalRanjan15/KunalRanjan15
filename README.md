@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KunalRanjan15
+- 👋 Hi, I’m Kunal (@KunalRanjan15)
 - 👀 I’m interested in various topics of Computer Science like Artificial Intelligence, Machine Learning and Web Development
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me - kunal15ranjan@gmail.com
